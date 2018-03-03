@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-29T20:55:58+08:00</updated><id>http://localhost:4000/</id><title type="html">Elsdrium - Dev Note</title><subtitle>Landing page</subtitle><author><name>HsuehMin Chen</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-03T23:47:21+08:00</updated><id>http://localhost:4000/</id><title type="html">Elsdrium - Dev Note</title><subtitle>Landing page</subtitle><author><name>HsuehMin Chen</name></author><entry><title type="html">Modify doxygen config for code browsing</title><link href="http://localhost:4000/articles/doxygen_config/" rel="alternate" type="text/html" title="Modify doxygen config for code browsing" /><published>2018-03-03T22:41:00+08:00</published><updated>2018-03-03T22:41:00+08:00</updated><id>http://localhost:4000/articles/doxygen_config</id><content type="html" xml:base="http://localhost:4000/articles/doxygen_config/">&lt;h2 id=&quot;config-values&quot;&gt;Config values&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;PROJECT_NAME&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;OUTPUT_DIRECTORY&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;CREATE_SUBDIRS         : NO =&amp;gt; YES&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;EXTRACT_ALL            : NO =&amp;gt; YES&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;EXTRACT_PRIVATE        : NO =&amp;gt; YES&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;EXTRACT_STATIC         : NO =&amp;gt; YES&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;RECURSIVE              : NO =&amp;gt; YES&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;INLINE_SOURCES         : NO =&amp;gt; YES&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;REFERENCED_BY_RELATION : NO =&amp;gt; YES&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;REFERENCES_RELATION    : NO =&amp;gt; YES&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>HsuehMin Chen</name></author><category term="doxygen" /><summary type="html">Config values</summary></entry></feed>
